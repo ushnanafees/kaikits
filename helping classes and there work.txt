@@ -1,0 +1,52 @@
+.block			top, bottom 110px ki padding add krti ha
+.less-spacing		top, bottom 80px ki padding add krti ha
+.extra-topgap		top 270px padding add krti ha
+.extra-bottomgap		bottom 140px padding add krti ha
+.no-padding		top, bottom padding 0 krti ha
+.remove-gap		top padding 0 krti ha
+.remove-bottom		bottom padding 0 krti ha
+.gray			background gray
+.dark			background light dark
+.dark2			background zayda dark
+.remove-ext		bottom se 30px space km krti ha
+.remove-ext50		bottom se 50px space km krti ha
+.remove-ext60		bottom se 60px space km krti ha
+.remove-ext65		bottom se 65px space km krti ha
+.mb30			bottom main 30px space add krti ha
+.mrg			grids ko merge krti ha
+.mrg1			grids k darmiyan 1px ki space add krti ha krti ha
+.mrg5			grids k darmiyan 5px ki space add krti ha krti ha
+.mrg10			grids k darmiyan 10px ki space add krti ha krti ha
+ovrlp80			top se 80px ki space km krti ha
+overlap168		top se 168px ki space km krti ha
+overlap100		top se 100px ki space km krti ha
+.ext-wd30			width 30px brh jati ha
+.ml-30			left se 30px ki space km krti ha
+.center-align		text ko center align krti ha
+.paddlr70			left, right 70px padding add krti ha
+.paddlr60			left, right 60px padding add krti ha
+.paddlr100		left, right 100px padding add krti ha
+.paddlr8ps		left, right 8% padding add krti ha
+.paddlr48			left, right 48px padding add krti ha
+.paddlr30			left, right 30px padding add krti ha
+.paddlr170		left, right 170px padding add krti ha
+.paddtb100		top, bottom 100px padding add krti ha
+.paddtb240-100		top 240px or bottom 100px padding add krti ha
+.paddl58			left 58px padding add krti ha
+.paddt130		top 130px padding add krti ha
+.overlap-160		bottom se 160px ki space km krti ha
+.overlap-70		bottom se 70px ki space km krti ha
+.fixed-bg			fixed image moveing text k liye
+.fixed-bg2			background image k liye
+.blackish			black layer add krti ha
+.blackish2		light black layer add krti ha
+.mrgndish		margindish layer add krti ha
+.thm-lyr			them layer add krti ha
+.whitish			white layer add krti ha
+.grayish			gray layer add krti ha
+.opc7			layer opacity .7 krti ha
+.opc85			layer opacity .85 krti ha
+.mdm-opc			layer opacity .8 krti ha
+.lw-opc			layer opacity .5 krti ha
+.hgh-opc			layer opacity .95 krti ha
+.hlf-bg 			half background k liye
